@@ -55,13 +55,16 @@ This project helps beginners learn **Flutter basics, widget layout, navigation, 
 > Replace these placeholders with your actual app screenshots
 
 **Welcome Screen**  
-![Welcome Screen](screenshots/welcome_screen.png)
+![Welcome Screen](assets/screenshots/a1.png)
 
-**Profile Screen**  
-![Profile Screen](screenshots/profile_screen.png)
+**Profile Screen(LIGHT)**  
+![Profile Screen](assets/screenshots/a2.png)
+
+**Profile Screen(DARK)**
+![Profile Screen](assets/screenshots/a4.png)
 
 **About Me Page**  
-![About Me](screenshots/about_me_screen.png)
+![About Me](assets/screenshots/a3.png)
 
 ---
 
