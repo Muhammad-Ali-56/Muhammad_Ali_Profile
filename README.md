@@ -86,42 +86,42 @@ This project helps beginners learn **Flutter basics, widget layout, navigation, 
 
 ## Usage
 - Open the app → Welcome screen appears.
--
+
 - Click View Profile → navigate to Profile screen.
--
+
 - Tap the FAB (info button) → navigate to About Me page.
--
+
 - Toggle dark mode from the AppBar on Profile screen.
--
+
 - Click social icons → open corresponding URLs or email.
 
 ## Skills & Hobbies
 ### Skills:
 
 - Dart
--
+
 - Flutter
--
+
 - Firebase
--
+
 - Git
--
+
 - REST APIs
--
+
 - UI/UX Design
--
+
 - Machine Learning (basic AI integration)
 
 ### Hobbies:
 
 - AI research and experimentation
--
+
 - Reading tech blogs
--
+
 - Developing mini Flutter projects
--
+
 - Basketball
--
+
 - Photography
 
 ### Social Links
