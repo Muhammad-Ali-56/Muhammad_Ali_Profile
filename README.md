@@ -254,9 +254,7 @@ This project is licensed under the **MIT License.** See LICENSE for details.
 
 - Flutter Developer
 
-
 - AI Enthusiast
-
 
 - Contact: mail.to.ali.56@gmail.com
 
