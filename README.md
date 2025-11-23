@@ -1,16 +1,163 @@
-# first_app
+# Muhammad Ali Profile App
 
-A new Flutter project.
+A simple and interactive **Flutter mobile application** showcasing a personal profile with bio, skills, hobbies, and social links. This app demonstrates the use of Flutter widgets, layouts, navigation, and Material Design principles.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Table of Contents
 
-A few resources to get you started if this is your first Flutter project:
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Skills & Hobbies](#skills--hobbies)
+- [Social Links](#social-links)
+- [Contributing](#contributing)
+- [License](#license)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Overview
+
+The **Muhammad Ali Profile App** is a beginner-friendly Flutter project designed as a personal profile application. It includes:
+
+- Welcome screen with a background gradient and navigation button.
+- Profile screen with circular profile image, name, profession, bio, contact details, and social links.
+- About Me page listing education, skills, and hobbies.
+- Optional dark mode toggle and floating action button for navigation.
+
+This project helps beginners learn **Flutter basics, widget layout, navigation, and UI design**.
+
+---
+
+## Features
+
+- Responsive UI supporting different screen sizes.
+- Welcome screen with gradient background and “View Profile” button.
+- Profile screen with:
+    - Circular profile image
+    - Name, profession, and short bio
+    - Contact cards (Email, Phone, Location)
+    - Social links (LinkedIn, GitHub, Email)
+    - Floating Action Button to navigate to About Me page
+- About Me page displaying:
+    - Education history
+    - Skills (using Chips)
+    - Hobbies
+- Dark mode toggle (optional)
+- Clean Material Design layout
+
+---
+
+## Screenshots
+
+> Replace these placeholders with your actual app screenshots
+
+**Welcome Screen**  
+![Welcome Screen](screenshots/welcome_screen.png)
+
+**Profile Screen**  
+![Profile Screen](screenshots/profile_screen.png)
+
+**About Me Page**  
+![About Me](screenshots/about_me_screen.png)
+
+---
+
+## Installation
+
+1. **Clone the repository**
+
+`git clone https://gitlab.com/Muhammad-Ali-56/muhammad_ali_profile.git`
+
+2. **Navigate to project folder**
+
+`cd Muhammad_Ali_Profile`
+
+3. **Install dependencies**
+
+`flutter pub get`
+
+4. **Run the app**
+
+`flutter run`
+> Make sure you have Flutter SDK installed and connected to an emulator or device.
+
+## Usage
+- Open the app → Welcome screen appears.
+-
+- Click View Profile → navigate to Profile screen.
+-
+- Tap the FAB (info button) → navigate to About Me page.
+-
+- Toggle dark mode from the AppBar on Profile screen.
+-
+- Click social icons → open corresponding URLs or email.
+
+## Skills & Hobbies
+### Skills:
+
+- Dart
+-
+- Flutter
+-
+- Firebase
+-
+- Git
+-
+- REST APIs
+-
+- UI/UX Design
+-
+- Machine Learning (basic AI integration)
+
+### Hobbies:
+
+- AI research and experimentation
+-
+- Reading tech blogs
+-
+- Developing mini Flutter projects
+-
+- Basketball
+-
+- Photography
+
+### Social Links
+**LinkedIn:** [Muhammad Ali](https://www.linkedin.com/in/muhammad-ali-350a1636a/)
+
+**GitHub:** [Muhammad-Ali-56](https://githab.com/Muhammad-Ali-56)
+
+**GitLab:** [Muhammad-Ali-56](https://gitlab.com/Muhammad-Ali-56)
+
+**Email:** mail.to.ali.56@gmail.com
+
+## Contributing
+Contributions are welcome!
+
+1. Fork the repository
+
+2. Create a branch: git checkout -b feature/YourFeature
+
+3. Commit your changes: git commit -m "Add feature"
+
+4. Push to the branch: git push origin feature/YourFeature
+
+5. Open a Merge Request
+
+
+## License
+This project is licensed under the **MIT License.** See LICENSE for details.
+
+## Author
+### **Muhammad Ali**
+
+- Flutter Developer
+
+- AI Enthusiast
+
+- Contact: mail.to.ali.56@gmail.com
+
+
+
