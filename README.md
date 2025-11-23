@@ -61,7 +61,7 @@ This project helps beginners learn **Flutter basics, widget layout, navigation, 
 ![Profile Screen](assets/screenshots/a2.png)
 
 **Profile Screen(DARK)**
-![Profile Screen](assets/screenshots/a4.png)
+![Profile ScreenD](assets/screenshots/a4.png)
 
 **About Me Page**  
 ![About Me](assets/screenshots/a3.png)
